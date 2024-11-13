@@ -9,5 +9,7 @@
 - [ ] Constructor Functions
 - [ ] Prototypes
 - [ ] ES6 Classes
+- [ ] Inheritance
+- [ ] Getters and Setters
 
 Some of the lessons and examples related to the prerequisites will be available in the `prerequisites` folder. For more detailed information, refer to the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
