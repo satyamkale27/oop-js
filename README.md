@@ -8,6 +8,10 @@
 - [ ] `this` Keyword
 - [ ] Constructor Functions
 - [ ] Prototypes
+-
+
+# Object-Oriented Programming concepts in JavaScript
+
 - [ ] ES6 Classes
 - [ ] Inheritance
 - [ ] Getters and Setters
